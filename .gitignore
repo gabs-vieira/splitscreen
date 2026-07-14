@@ -3,3 +3,8 @@
 study_plan.md
 notes.md
 initial_sope.md
+
+# python
+.venv/
+__pycache__/
+*.pyc
