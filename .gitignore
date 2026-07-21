@@ -8,3 +8,4 @@ initial_sope.md
 .venv/
 __pycache__/
 *.pyc
+.vscode
